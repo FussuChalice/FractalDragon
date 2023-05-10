@@ -19,3 +19,6 @@ Using pairs of real numbers instead, this is the same as the two functions consi
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/1b552c0b5bf4dd7cd75e120d63c73db65b535740)
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/1d69e488908d34fa9c5e9a11d75e35100dd27f54)
+
+Full text on Wikipedia:
+https://en.wikipedia.org/wiki/Dragon_curve
