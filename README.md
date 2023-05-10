@@ -16,6 +16,7 @@ The Heighway dragon is also the limit set of the following iterated function sys
 with the initial set of points ![curve_formula_2](https://wikimedia.org/api/rest_v1/media/math/render/svg/ec695e918a52247f22f5ca81bac38d10d9e68a7d)
 
 Using pairs of real numbers instead, this is the same as the two functions consisting of
+
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/1b552c0b5bf4dd7cd75e120d63c73db65b535740)
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/1d69e488908d34fa9c5e9a11d75e35100dd27f54)
