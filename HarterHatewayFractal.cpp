@@ -3,7 +3,6 @@
 
 
 #include "HarterHatewayFractal.h"
-#include "pch.h"
 
 const int WINDOW_HEIGHT = 960;
 const int WINDOW_WIDTH = 540;
