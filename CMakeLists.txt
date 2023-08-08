@@ -6,7 +6,7 @@ cmake_minimum_required (VERSION 3.8)
 project ("HarterHatewayFractal")
 
 # Add source to this project's executable.
-add_executable (HarterHatewayFractal "HarterHatewayFractal.cpp" "HarterHatewayFractal.h"   "pch.h" )
+add_executable (HarterHatewayFractal "HarterHatewayFractal.cpp" "HarterHatewayFractal.h")
 
 
 target_link_libraries(HarterHatewayFractal 
