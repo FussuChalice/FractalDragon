@@ -8,6 +8,7 @@ const int WINDOW_HEIGHT = 960;
 const int WINDOW_WIDTH = 540;
 const int FRAMERATE_LIMIT = 60;
 const char* WINDOW_TITLE = "Dragon fractal visualization";
+const int MAX_DEPTH = 24; // See on your RAM Gb count
 
 std::string getDirectoryPath(char *executableFilePath);
 void drawFractalDragon(sf::RenderWindow& window, int depth, sf::Vector2f startPoint, sf::Vector2f endPoint, sf::Color color);
@@ -47,6 +48,12 @@ int main(int argc, char* argv[])
             {
                 isRunning = !isRunning; // Toggle the animation on Space key press
             }
+        }
+
+        // if don't stop app will have lags
+        if (currentDepth >= MAX_DEPTH)
+        {
+            isRunning = false;
         }
 
         if (isRunning)
