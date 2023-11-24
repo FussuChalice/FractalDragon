@@ -21,3 +21,7 @@ https://en.wikipedia.org/wiki/Dragon_curve
      $> cmake -G
      $> cmake -G "Your generate file type"
      ``` 
+6. Move from SFML/bin Project/Debug files:
+   - sfml-graphics-2.dll
+   - sfml-system-2.dll
+   - sfml-window-2.dll
